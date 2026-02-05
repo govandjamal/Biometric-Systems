@@ -26,3 +26,8 @@ data/
 # Logs and temp
 *.log
 *.tmp
+
+# Local-only docs (not in repo)
+TEACH_ME_FIRST.md
+HOW_THE_GUI_WORKS.md
+GITHUB_SETUP.md
