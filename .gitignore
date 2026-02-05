@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project: don't upload user data (enrolled photos) to GitHub
+# Remove this line if you want to include sample data
+data/
+
+# Logs and temp
+*.log
+*.tmp
